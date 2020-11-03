@@ -44,3 +44,8 @@ sysinfo.txt
 *.unitypackage
 
 .DS_Store
+
+
+
+# AR figure sample
+Assets/MMD4Mecanim*
