@@ -49,3 +49,6 @@ sysinfo.txt
 
 # AR figure sample
 Assets/MMD4Mecanim*
+Assets/MMD-Models.meta
+Assets/MMD-Models/*
+!Assets/MMD-Models/.keep
